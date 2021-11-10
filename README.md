@@ -1,9 +1,9 @@
 ### Hi there 👋
-<ul>
-<li>🔭  I’m currently working on Rithm School's Student Information System using Django. </li>
-<li>🌱  I’m currently learning the professional git workflow process. </li>
-<li>📫  Send me a message if you have a question. </li>
-</ul>
+<div>
+<div>🔭  I’m currently working on Rithm School's Student Information System using Django. </div>
+<div>🌱  I’m currently learning the professional git workflow process. </div>
+<div>📫  Send me a message if you have a question. </div>
+</div>
 
 <!--
 **vcheng33/vcheng33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
