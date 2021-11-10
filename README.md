@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
 <div>🔭  I’m currently working on Rithm School's Student Information System using Django. </div>
-<div>🌱  I’m currently learning the professional git workflow process. </div>
+<div>🌱  I’m currently learning the professional git workflow process and testing in Django. </div>
 <div>📫  Send me a message if you have a question. </div>
 </div>
 
