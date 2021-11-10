@@ -1,8 +1,9 @@
 ### Hi there 👋
-
-🔭 I’m currently working on Rithm School's Student Information System using Django
-🌱 I’m currently learning the professional git workflow process 
-📫 Send me a message if you have a question
+<ul>
+<li>🔭 I’m currently working on Rithm School's Student Information System using Django. </ul>
+<li>🌱 I’m currently learning the professional git workflow process. </ul>
+<li>📫 Send me a message if you have a question. </ul>
+</ul>
 
 <!--
 **vcheng33/vcheng33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
