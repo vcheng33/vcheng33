@@ -1,8 +1,8 @@
 ### Hi there 👋
 <ul>
-<li>🔭 I’m currently working on Rithm School's Student Information System using Django. </li>
-<li>🌱 I’m currently learning the professional git workflow process. </li>
-<li>📫 Send me a message if you have a question. </li>
+<li>🔭  I’m currently working on Rithm School's Student Information System using Django. </li>
+<li>🌱  I’m currently learning the professional git workflow process. </li>
+<li>📫  Send me a message if you have a question. </li>
 </ul>
 
 <!--
