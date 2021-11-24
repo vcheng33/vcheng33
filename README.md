@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div>
-<div>🔭  I’m currently working on Rithm School's Student Information System using Django. </div>
-<div>🌱  I’m currently learning the professional git workflow process and testing in Django. </div>
-<div>📫  Send me a message if you have a question. </div>
+<div>🔭  I’m a Software Engineer. Most recently, I worked on Rithm School's Student Information System using Django. </div>
+<div>🌱  In my free time, I learned about React Native so I could create a mobile app for my Share B&B project</div>
+<div>📫  Send me a message if you have a question or would like to get to know me better. </div>
 </div>
 
 <!--
