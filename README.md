@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div>
-<div>🔭  I’m a Software Engineer. Most recently, I worked on Rithm School's Student Information System using Django. </div>
+<div>😄  My name is Vanessa and I’m a Software Engineer. </div>
+<div>🔭  Most recently, I worked on Rithm School's Student Information System using Django. 
 <div>🌱  In my free time, I learned about React Native so I could create a mobile app for my Share B&B project</div>
 <div>📫  Send me a message if you have a question or would like to get to know me better. </div>
 </div>
