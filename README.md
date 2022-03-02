@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div>
-<div>😄  My name is Vanessa and I’m a Software Engineer. </div>
-<div>🔭  Most recently, I worked on Rithm School's Student Information System using Django. 
+<div>😄  My name is Vanessa and I’m an Apprentice Software Engineer at Pinterest. </div>
 <div>🌱  In my free time, I learned how to use React Native so I could create a mobile app for my Share B&B project. Code can be found <a href="https://github.com/vcheng33/sharebnb-react-native-app">here</a>.</div>
 <div>📫  Send me a message if you have a question or would like to get to know me better. </div>
 </div>
